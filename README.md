@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadahal&label=Profile%20views&color=0e75b6&style=flat" alt="adityadahal" /> </p>
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently studying **BSc. Computing**
+
+- 👯 I’m interested in **Front end Developement**
+
+- 🤝 I’m currently learning **React.js**
 
 - 📫 How to reach me **toadityadahal@gmail.com**
+
+- ⚡Other Interest **Exploring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
