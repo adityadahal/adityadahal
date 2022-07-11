@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently studying **BSc. Computing**
 
+- 🤝 I’m currently Working at **Amtrix Technology**
+
 - 👯 I’m interested in **Front end Developement**
 
 - 🤝 I’m currently learning **React.js**
