@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **BSc. Computing**
 
-- 🤝 I’m currently Working at **Amtrix Technology**
+- 🤝 I’m currently Working on [Pharmedica](https://pharmedica.amtrixtech.com.np/pharmedica)
 
 - 👯 I’m interested in **Front end Developement**
 
