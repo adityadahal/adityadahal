@@ -7,9 +7,9 @@
 
 - 🤝 I’m currently Working on [Pharmedica](https://pharmedica.amtrixtech.com.np/pharmedica)
 
-- 👯 I’m interested in **Front end Developement**
+- 👯 I’m interested in **Web Developement**
 
-- 🤝 I’m currently learning **React.js**
+- 🤝 I’m currently learning **React.js | Angular.js | Spring Boot**
 
 - 📫 How to reach me **toadityadahal@gmail.com**
 
