@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadahal&label=Profile%20views&color=0e75b6&style=flat" alt="adityadahal" /> </p>
 
-- 🔭 I’m currently studying **BSc. Computing**
+- 🔭 I’ve recently graduated with a degree in **BSc. Computing**
 
-- 🤝 I’m currently Working on [Pharmedica](https://pharmedica.amtrixtech.com.np/pharmedica)
+- 🤝 I’m currently Working on [Bitskraft Nepal](https://bitskraft.com)
 
 - 👯 I’m interested in **Web Developement**
 
