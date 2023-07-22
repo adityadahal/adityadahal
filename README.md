@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **toadityadahal@gmail.com**
 
-- ⚡Other Interest **Exploring**
+- ⚡Other Interest **Exploring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
