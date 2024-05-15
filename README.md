@@ -9,7 +9,7 @@
 
 - 👯 I’m interested in **Web Developement**
 
-- 🤝 Currently **Angular | Spring Boot | REACT JS**
+- 🤝 Currently **Angular | Spring Boot | REACT JS | Express Js**
 
 - 📫 How to reach me **toadityadahal@gmail.com**
 
