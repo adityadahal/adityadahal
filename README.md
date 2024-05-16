@@ -5,7 +5,7 @@
 
 - 🔭 I’ve recently graduated with a degree in **BSc. Computing**
 
-- 🤝 I’m currently Working on [Bitskraft Nepal](https://bitskraft.com)
+- 🤝 I’m currently Working on [Maitri Services](https://maitriservices.com)
 
 - 👯 I’m interested in **Web Developement**
 
